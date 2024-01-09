@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: url(media/varios/extendido.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.boy{
+    position: absolute;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 4%; height: 10%;
+}
+
+span{
+    position: absolute;
+    background: url(media/varios/PokeBall.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 1%; height: 3%;
+    border-radius: 50%;
+}
+
+.pkm1{
+    position: absolute;
+    background-image: url(media/spritePKM/Arcanine.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 4%; height: 10%;
+    top: 5%; left: 50%;
+    
+}
+.pkm2{
+    position: absolute;
+    background-image: url(media/spritePKM/Bulbasaur_LGPE.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 4%; height: 10%;
+    top: 16%; left: 65%;
+    
+}
+.pkm3{
+    position: absolute;
+    background-image: url(media/spritePKM/Charmander.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 4%; height: 10%;
+    top: 27%; left: 76%;
+    
+}
+.pkm4{
+    position: absolute;
+    background-image: url(media/spritePKM//Cloyster.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 4%; height: 10%;
+    top: 15%; left: 95%;
+    
+}
+.pkm5{
+    position: absolute;
+    background-image: url(media/spritePKM/Eevee.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 4%; height: 10%;
+    top: 70%; left: 29%;
+    
+}
+.pkm6{
+    position: absolute;
+    background-image: url(media/spritePKM/Gengar.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 4%; height: 10%;
+    top: 65%; left: 96%;
+    
+}
